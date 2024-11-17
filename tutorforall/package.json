@@ -1,8 +1,8 @@
-  {
+{
   "name": "tutorforall",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://https://tutorforall.github.io/tutors",
+  "homepage": "https://tutorforall.github.io/tutors",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -49,11 +49,4 @@
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.35"
   }
-}
-
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "start": "react-scripts start",
-  "build": "react-scripts build"
 }
